@@ -1,0 +1,37 @@
+Bussiness 
+
+   	 Project Management
+      - The team members should be able to add, update, and delete project details.
+      - Each project record should include details such as project name, project manager, project information, project team, and department.
+      
+
+  	  Stakeholder access
+      	The stakeholder/Project customer should have an access to the project so that he/she is updated with all the phases of the project. 
+
+   	  Project Time Requirement
+      - The company should be updated with all the project time required.
+      - The system should allow managers to review and approve/reject leave requests.
+      - The system should maintain a record of employee leave history.
+       User details
+      - It will have all the user details such as userid username, password user description.
+	
+	login
+	It will have the thregistered user details like login nmae login id.
+	Roles
+	it will have all the roles performed by the employee like manager, team lead, team members, customer name.
+
+	permisiion
+	permisision will have permission description like which employee will have what permission.
+	project
+
+	It will have project details, project name and project id.
+	employee
+ 	It will have employee name, employee address,emp id,employee mobile number.
+
+
+ 	bug
+
+	It will give details of the the bugs raised.
+
+      ticket
+	It will give ticket description like ticket id.

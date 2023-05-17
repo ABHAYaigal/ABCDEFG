@@ -1,0 +1,80 @@
+Online Project Management System
+
+1. Introduction
+   1.1 Purpose
+   The purpose of this document is to provide a detailed description of the requirements for the Project Management System. It outlines the functional and non-functional requirements, constraints, and interfaces of the system.
+
+   1.2 Scope
+   The Project Management System is a web-based application that allows organizations to manage project details,project id number, project team,project managers and reports. The system will provide an efficient and centralized solution for managing projects-related tasks in an organisation.
+
+
+2. Functional Requirements
+   2.1 Project Management
+      - The team members should be able to add, update, and delete project details.
+      - Each project record should include details such as project name, project manager, project information, project team, and department.
+      
+
+   2.2  Stakeholder access
+      	The stakeholder/Project customer should have an access to the project so that he/she is updated with all the phases of the project. 
+
+   2.3  Project Time Requirement
+      - The company should be updated with all the project time required.
+      - The system should allow managers to review and approve/reject leave requests.
+      - The system should maintain a record of employee leave history.
+   2.4 User details
+      - It will have all the user details such as userid username, password user description.
+	
+2.5 login
+	It will have the thregistered user details like login nmae login id.
+2.6 Roles
+	it will have all the roles performed by the employee like manager, team lead, team members, customer name.
+
+2.7 permisiion
+	permisision will have permission description like which employee will have what permission.
+2.8 project
+
+	It will have project details, project name and project id.
+2.9 employee
+ 	It will have employee name, employee address,emp id,employee mobile number.
+
+2.10
+ 	bug
+
+	It will give details of the the bugs raised.
+2.11
+      ticket
+	It will give ticket description like ticket id.
+ 
+	
+   
+
+3. Non-functional Requirements
+   3.1 Security
+      - Project data should be securely stored and accessible only to authorized personnel.
+      - User authentication and access control mechanisms should be implemented.
+      - Sensitive information such as passwords should be stored using encryption.
+
+   3.2 Performance
+      - The system should handle concurrent user requests without significant performance degradation.
+      - The response time for retrieving employee records, generating reports, and processing leave requests should be minimal.
+
+   3.3 Usability
+      - The user interface should be intuitive and user-friendly.
+      - The system should provide clear and informative error messages.
+      - The system should support multiple languages if required.
+
+4. Constraints
+   - The Project Management System will be developed using a web-based architecture.
+   - The system should be compatible with popular web browsers such as Chrome, Firefox, and Safari.
+   - The system should be responsive and accessible on different devices (desktops, tablets, mobile phones).
+
+5. Interfaces
+   - User Interface: The system will provide a web-based user interface for administrators, managers, and employees to interact with.
+   - Database: The system will interact with a database to store and retrieve project related information
+
+6. Glossary
+   - SRS: Software Requirements Specification
+   - UI: User Interface
+
+
+
